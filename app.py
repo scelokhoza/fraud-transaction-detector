@@ -1,5 +1,6 @@
 import joblib
 import pandas as pd
+from datetime import datetime
 from model import TransactionModel
 from analyze import AnalyzeTransaction
 from flask import Flask, request, jsonify, render_template
@@ -18,7 +19,7 @@ transactionModel.train_model(X_train, y_train)
 transactionModel.save_model()
 
 
-default_transaction = {"amount": 100.00, "ref": "groceries", "location": "city_province", "hour": 14, "day_of_week": 3}
+default_transaction = {"amount": 100.00, "trnsaction_type": "purchase", "ref": "mcdonald", "location": "city_province", "hour": 14, "day_of_week": 3}
 
 
 @app.route('/')
@@ -32,7 +33,7 @@ def analyze():
         transaction = {
             "amount": float(data.get('amount', 0)),
             "transaction type": data.get('transaction_type', ''),
-            "date": data.get('date', ''),
+            "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "ref": data.get('merchant', ''),
             "location": {"city": data.get('city', ''), "province": data.get('province', '')}
         }
