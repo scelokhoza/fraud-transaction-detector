@@ -1,0 +1,2537 @@
+[
+    {
+        "id": 66811,
+        "transaction type": "cash withdrawal",
+        "amount": 3317.95398567434,
+        "date": "2024-07-03 04:04:46",
+        "user": "user_1",
+        "ref": "tymebank",
+        "event_label": 0,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 2817,
+        "transaction type": "cash withdrawal",
+        "amount": 24665.465204177806,
+        "date": "2024-07-03 14:38:46",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 54633,
+        "transaction type": "cash withdrawal",
+        "amount": 22305.303486933,
+        "date": "2024-07-03 05:32:21",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 60166,
+        "transaction type": "cash withdrawal",
+        "amount": 13561.916602762736,
+        "date": "2024-07-03 02:47:41",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 94418,
+        "transaction type": "cash withdrawal",
+        "amount": 38455.466674391515,
+        "date": "2024-07-03 06:36:35",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 12015,
+        "transaction type": "cash withdrawal",
+        "amount": 15144.431003233905,
+        "date": "2024-07-03 21:42:41",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 3171,
+        "transaction type": "cash withdrawal",
+        "amount": 27813.72969899352,
+        "date": "2024-07-03 14:16:18",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 46861,
+        "transaction type": "cash withdrawal",
+        "amount": 18681.254788710703,
+        "date": "2024-07-03 07:35:23",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 65075,
+        "transaction type": "cash withdrawal",
+        "amount": 46410.66779510182,
+        "date": "2024-07-03 08:15:29",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 74897,
+        "transaction type": "payment",
+        "amount": 40932.14806791115,
+        "date": "2024-07-03 10:05:05",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 57135,
+        "transaction type": "payment",
+        "amount": 41301.492237167375,
+        "date": "2024-07-03 14:53:01",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 54190,
+        "transaction type": "payment",
+        "amount": 46872.80848527896,
+        "date": "2024-07-03 10:01:55",
+        "user": "user_1",
+        "ref": "telkom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 5951,
+        "transaction type": "payment",
+        "amount": 6932.544291669752,
+        "date": "2024-07-03 21:41:52",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 95954,
+        "transaction type": "payment",
+        "amount": 4126.024482602016,
+        "date": "2024-07-03 19:16:34",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 0,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 51677,
+        "transaction type": "cash withdrawal",
+        "amount": 40167.69177586642,
+        "date": "2024-07-03 09:04:31",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 51745,
+        "transaction type": "cash withdrawal",
+        "amount": 22733.057069446448,
+        "date": "2024-07-03 11:29:11",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 65280,
+        "transaction type": "cash withdrawal",
+        "amount": 8941.229702083772,
+        "date": "2024-07-03 14:19:06",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 45866,
+        "transaction type": "cash withdrawal",
+        "amount": 48094.741032803766,
+        "date": "2024-07-03 09:17:55",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 71707,
+        "transaction type": "cash withdrawal",
+        "amount": 21420.849386595073,
+        "date": "2024-07-03 02:56:05",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 35634,
+        "transaction type": "cash withdrawal",
+        "amount": 29895.741616128285,
+        "date": "2024-07-03 20:35:13",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 80078,
+        "transaction type": "cash withdrawal",
+        "amount": 36482.36307116647,
+        "date": "2024-07-03 10:05:06",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 41000,
+        "transaction type": "cash withdrawal",
+        "amount": 25654.031744855653,
+        "date": "2024-07-03 17:06:33",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 7809,
+        "transaction type": "payment",
+        "amount": 47350.86777570986,
+        "date": "2024-07-03 00:04:25",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 25808,
+        "transaction type": "payment",
+        "amount": 11489.439714043072,
+        "date": "2024-07-03 19:11:22",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 49751,
+        "transaction type": "payment",
+        "amount": 18506.7398046356,
+        "date": "2024-07-03 07:36:46",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 237,
+        "transaction type": "payment",
+        "amount": 35114.2734228902,
+        "date": "2024-07-03 04:33:02",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 54837,
+        "transaction type": "cash withdrawal",
+        "amount": 157.34294989551617,
+        "date": "2024-07-03 09:02:53",
+        "user": "user_1",
+        "ref": "tymebank",
+        "event_label": 0,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 43607,
+        "transaction type": "cash withdrawal",
+        "amount": 44437.94891885991,
+        "date": "2024-07-03 19:05:11",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 48937,
+        "transaction type": "cash withdrawal",
+        "amount": 13424.83111597231,
+        "date": "2024-07-03 07:28:28",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 54972,
+        "transaction type": "cash withdrawal",
+        "amount": 46481.989402133004,
+        "date": "2024-07-03 12:45:44",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 11182,
+        "transaction type": "cash withdrawal",
+        "amount": 30872.796783508402,
+        "date": "2024-07-03 16:53:09",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 42191,
+        "transaction type": "cash withdrawal",
+        "amount": 35191.46028639407,
+        "date": "2024-07-03 22:46:18",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 93422,
+        "transaction type": "cash withdrawal",
+        "amount": 12405.252611950764,
+        "date": "2024-07-03 10:54:57",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 90350,
+        "transaction type": "cash withdrawal",
+        "amount": 12298.426736491812,
+        "date": "2024-07-03 22:02:20",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 37716,
+        "transaction type": "cash withdrawal",
+        "amount": 32372.336902021914,
+        "date": "2024-07-03 11:18:10",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 26819,
+        "transaction type": "payment",
+        "amount": 5031.860540301086,
+        "date": "2024-07-03 03:08:40",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 86137,
+        "transaction type": "payment",
+        "amount": 6480.027865005271,
+        "date": "2024-07-03 18:28:45",
+        "user": "user_1",
+        "ref": "thabiso",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 93762,
+        "transaction type": "payment",
+        "amount": 30597.416637895116,
+        "date": "2024-07-03 19:15:49",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 38956,
+        "transaction type": "payment",
+        "amount": 18257.444685432667,
+        "date": "2024-07-03 00:58:43",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 30539,
+        "transaction type": "cash withdrawal",
+        "amount": 2307.0309056196133,
+        "date": "2024-07-03 01:17:28",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 0,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 97389,
+        "transaction type": "cash withdrawal",
+        "amount": 20537.38043968157,
+        "date": "2024-07-03 23:07:11",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 66248,
+        "transaction type": "cash withdrawal",
+        "amount": 41267.142997185874,
+        "date": "2024-07-03 06:55:28",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 41031,
+        "transaction type": "cash withdrawal",
+        "amount": 20611.070318298556,
+        "date": "2024-07-03 05:20:24",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 17410,
+        "transaction type": "cash withdrawal",
+        "amount": 26684.32049333538,
+        "date": "2024-07-03 11:38:59",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 94266,
+        "transaction type": "cash withdrawal",
+        "amount": 47122.36465501989,
+        "date": "2024-07-03 01:56:10",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 71981,
+        "transaction type": "cash withdrawal",
+        "amount": 49283.97981685175,
+        "date": "2024-07-03 15:54:37",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 8719,
+        "transaction type": "cash withdrawal",
+        "amount": 37823.901223628935,
+        "date": "2024-07-03 13:38:28",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 41081,
+        "transaction type": "cash withdrawal",
+        "amount": 22480.933080113293,
+        "date": "2024-07-03 09:06:01",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 51647,
+        "transaction type": "payment",
+        "amount": 9677.4236827791,
+        "date": "2024-07-03 15:54:44",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 79527,
+        "transaction type": "payment",
+        "amount": 13793.040690715208,
+        "date": "2024-07-03 14:15:56",
+        "user": "user_1",
+        "ref": "telkom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 49943,
+        "transaction type": "payment",
+        "amount": 24515.824477584298,
+        "date": "2024-07-03 03:07:24",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 43081,
+        "transaction type": "payment",
+        "amount": 6260.595830815073,
+        "date": "2024-07-03 10:22:13",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 54094,
+        "transaction type": "purchase",
+        "amount": 4130.7787331160225,
+        "date": "2024-07-03 20:27:49",
+        "user": "user_1",
+        "ref": "kfc",
+        "event_label": 0,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 31217,
+        "transaction type": "cash withdrawal",
+        "amount": 27675.768712561072,
+        "date": "2024-07-03 19:39:33",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 71682,
+        "transaction type": "cash withdrawal",
+        "amount": 40758.895142169764,
+        "date": "2024-07-03 22:25:26",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 43630,
+        "transaction type": "cash withdrawal",
+        "amount": 15302.319358547682,
+        "date": "2024-07-03 03:32:26",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 56550,
+        "transaction type": "cash withdrawal",
+        "amount": 28319.867661181466,
+        "date": "2024-07-03 16:56:13",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 673,
+        "transaction type": "cash withdrawal",
+        "amount": 40209.45194321356,
+        "date": "2024-07-03 15:17:30",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 67142,
+        "transaction type": "cash withdrawal",
+        "amount": 24214.750219710946,
+        "date": "2024-07-03 11:13:43",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 78869,
+        "transaction type": "cash withdrawal",
+        "amount": 18047.675821534234,
+        "date": "2024-07-03 19:31:46",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 8265,
+        "transaction type": "cash withdrawal",
+        "amount": 11863.73814236889,
+        "date": "2024-07-03 11:03:16",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 40487,
+        "transaction type": "payment",
+        "amount": 15976.159287785986,
+        "date": "2024-07-03 14:45:02",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 38612,
+        "transaction type": "payment",
+        "amount": 7748.033941672869,
+        "date": "2024-07-03 17:04:29",
+        "user": "user_1",
+        "ref": "telkom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 57035,
+        "transaction type": "payment",
+        "amount": 39171.45864562923,
+        "date": "2024-07-03 12:27:35",
+        "user": "user_1",
+        "ref": "thabiso",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 16238,
+        "transaction type": "payment",
+        "amount": 16177.61025668681,
+        "date": "2024-07-03 21:44:57",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 99746,
+        "transaction type": "payment",
+        "amount": 3244.0694325052996,
+        "date": "2024-07-03 06:51:35",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 0,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 14636,
+        "transaction type": "cash withdrawal",
+        "amount": 31159.444944191127,
+        "date": "2024-07-03 17:22:59",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 10587,
+        "transaction type": "cash withdrawal",
+        "amount": 22920.129407862973,
+        "date": "2024-07-03 12:53:39",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 89839,
+        "transaction type": "cash withdrawal",
+        "amount": 29882.981412634756,
+        "date": "2024-07-03 23:49:54",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 47089,
+        "transaction type": "cash withdrawal",
+        "amount": 7222.287739385652,
+        "date": "2024-07-03 09:08:46",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 15641,
+        "transaction type": "cash withdrawal",
+        "amount": 19209.762209517816,
+        "date": "2024-07-03 16:35:55",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 6688,
+        "transaction type": "cash withdrawal",
+        "amount": 44580.40644481052,
+        "date": "2024-07-03 02:36:30",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 96977,
+        "transaction type": "cash withdrawal",
+        "amount": 38778.588291357046,
+        "date": "2024-07-03 11:53:30",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 5263,
+        "transaction type": "cash withdrawal",
+        "amount": 7544.942862675045,
+        "date": "2024-07-03 23:48:06",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 73473,
+        "transaction type": "payment",
+        "amount": 15109.156925933397,
+        "date": "2024-07-03 06:02:11",
+        "user": "user_1",
+        "ref": "cell c mobile",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 15669,
+        "transaction type": "payment",
+        "amount": 44376.35349170578,
+        "date": "2024-07-03 23:43:17",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 59329,
+        "transaction type": "payment",
+        "amount": 5480.356463472462,
+        "date": "2024-07-03 02:12:57",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 73373,
+        "transaction type": "payment",
+        "amount": 23859.64090763564,
+        "date": "2024-07-03 13:11:06",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 75599,
+        "transaction type": "payment",
+        "amount": 4129.33675043445,
+        "date": "2024-07-03 06:37:02",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 0,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 46798,
+        "transaction type": "cash withdrawal",
+        "amount": 40980.40181614617,
+        "date": "2024-07-03 17:12:46",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 47867,
+        "transaction type": "cash withdrawal",
+        "amount": 48463.36644224212,
+        "date": "2024-07-03 12:39:19",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 13329,
+        "transaction type": "cash withdrawal",
+        "amount": 28220.601310391783,
+        "date": "2024-07-03 12:48:50",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 66593,
+        "transaction type": "cash withdrawal",
+        "amount": 24054.762045124084,
+        "date": "2024-07-03 01:51:35",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 20498,
+        "transaction type": "cash withdrawal",
+        "amount": 49565.73378316835,
+        "date": "2024-07-03 19:13:09",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 84863,
+        "transaction type": "cash withdrawal",
+        "amount": 42446.155737738416,
+        "date": "2024-07-03 22:17:26",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 37036,
+        "transaction type": "cash withdrawal",
+        "amount": 48201.51433280594,
+        "date": "2024-07-03 06:23:43",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 96156,
+        "transaction type": "cash withdrawal",
+        "amount": 14601.76037269572,
+        "date": "2024-07-03 10:51:25",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 53457,
+        "transaction type": "payment",
+        "amount": 38022.185381765696,
+        "date": "2024-07-03 05:56:37",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 55299,
+        "transaction type": "payment",
+        "amount": 15871.099883494735,
+        "date": "2024-07-03 05:13:39",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 22630,
+        "transaction type": "payment",
+        "amount": 11741.074312780182,
+        "date": "2024-07-03 14:28:44",
+        "user": "user_1",
+        "ref": "vodacom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 75045,
+        "transaction type": "payment",
+        "amount": 6685.922759467934,
+        "date": "2024-07-03 04:48:33",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 50148,
+        "transaction type": "cash withdrawal",
+        "amount": 2183.2380312743653,
+        "date": "2024-07-03 14:33:49",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 0,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 20238,
+        "transaction type": "cash withdrawal",
+        "amount": 19384.14661864552,
+        "date": "2024-07-03 18:21:11",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 67203,
+        "transaction type": "cash withdrawal",
+        "amount": 17265.71007328191,
+        "date": "2024-07-03 15:41:31",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 89073,
+        "transaction type": "cash withdrawal",
+        "amount": 32557.447415013336,
+        "date": "2024-07-03 09:45:33",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 19078,
+        "transaction type": "cash withdrawal",
+        "amount": 13953.050927025337,
+        "date": "2024-07-03 17:03:55",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 34499,
+        "transaction type": "cash withdrawal",
+        "amount": 13429.821193825257,
+        "date": "2024-07-03 18:29:20",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 92117,
+        "transaction type": "cash withdrawal",
+        "amount": 30237.12519207858,
+        "date": "2024-07-03 10:18:07",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 66703,
+        "transaction type": "cash withdrawal",
+        "amount": 48710.8865591082,
+        "date": "2024-07-03 13:34:20",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 19864,
+        "transaction type": "cash withdrawal",
+        "amount": 42804.76855052263,
+        "date": "2024-07-03 22:18:01",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 44753,
+        "transaction type": "payment",
+        "amount": 41319.69660505524,
+        "date": "2024-07-03 02:32:21",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 26333,
+        "transaction type": "payment",
+        "amount": 13865.281356621505,
+        "date": "2024-07-03 10:01:42",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 70109,
+        "transaction type": "payment",
+        "amount": 14991.798496024807,
+        "date": "2024-07-03 02:40:44",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 78208,
+        "transaction type": "payment",
+        "amount": 13060.656351364274,
+        "date": "2024-07-03 08:35:05",
+        "user": "user_1",
+        "ref": "cell c mobile",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 70545,
+        "transaction type": "payment",
+        "amount": 1372.1091559122647,
+        "date": "2024-07-03 02:01:44",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 0,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 23513,
+        "transaction type": "cash withdrawal",
+        "amount": 24096.29625404848,
+        "date": "2024-07-03 04:32:22",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 82972,
+        "transaction type": "cash withdrawal",
+        "amount": 38821.69885649482,
+        "date": "2024-07-03 18:02:05",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 99370,
+        "transaction type": "cash withdrawal",
+        "amount": 28439.59172702751,
+        "date": "2024-07-03 15:39:11",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 67835,
+        "transaction type": "cash withdrawal",
+        "amount": 43258.8232075312,
+        "date": "2024-07-03 23:11:17",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 20830,
+        "transaction type": "cash withdrawal",
+        "amount": 20668.16115426487,
+        "date": "2024-07-03 06:38:48",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 21647,
+        "transaction type": "cash withdrawal",
+        "amount": 7875.8521939562615,
+        "date": "2024-07-03 06:30:23",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 52838,
+        "transaction type": "cash withdrawal",
+        "amount": 47275.12479829628,
+        "date": "2024-07-03 10:59:43",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 74574,
+        "transaction type": "cash withdrawal",
+        "amount": 11249.294359050411,
+        "date": "2024-07-03 12:32:58",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 57698,
+        "transaction type": "payment",
+        "amount": 28246.978916714266,
+        "date": "2024-07-03 07:06:24",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 25829,
+        "transaction type": "payment",
+        "amount": 41703.554592639455,
+        "date": "2024-07-03 14:47:25",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 523,
+        "transaction type": "payment",
+        "amount": 39418.259615201576,
+        "date": "2024-07-03 00:09:00",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 66486,
+        "transaction type": "payment",
+        "amount": 14904.896966726494,
+        "date": "2024-07-03 23:23:18",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 8581,
+        "transaction type": "cash withdrawal",
+        "amount": 3690.9804894435224,
+        "date": "2024-07-03 06:12:27",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 0,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 1726,
+        "transaction type": "cash withdrawal",
+        "amount": 12034.379517653164,
+        "date": "2024-07-03 10:47:07",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 78626,
+        "transaction type": "cash withdrawal",
+        "amount": 49319.80415907995,
+        "date": "2024-07-03 00:56:38",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 79777,
+        "transaction type": "cash withdrawal",
+        "amount": 22351.03615883077,
+        "date": "2024-07-03 02:49:22",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 48220,
+        "transaction type": "cash withdrawal",
+        "amount": 41284.363241245985,
+        "date": "2024-07-03 07:19:13",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 25687,
+        "transaction type": "cash withdrawal",
+        "amount": 17400.708429910606,
+        "date": "2024-07-03 09:22:54",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 36915,
+        "transaction type": "cash withdrawal",
+        "amount": 10203.613433455426,
+        "date": "2024-07-03 03:11:53",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 47346,
+        "transaction type": "cash withdrawal",
+        "amount": 12900.012464113477,
+        "date": "2024-07-03 21:23:27",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 55317,
+        "transaction type": "cash withdrawal",
+        "amount": 23483.718811172515,
+        "date": "2024-07-03 17:22:28",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 91370,
+        "transaction type": "payment",
+        "amount": 16902.39414397275,
+        "date": "2024-07-03 04:42:09",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 6987,
+        "transaction type": "payment",
+        "amount": 44986.340976296015,
+        "date": "2024-07-03 03:23:03",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 30394,
+        "transaction type": "payment",
+        "amount": 44733.603170601964,
+        "date": "2024-07-03 12:25:21",
+        "user": "user_1",
+        "ref": "cell c mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 80564,
+        "transaction type": "payment",
+        "amount": 32326.206072564877,
+        "date": "2024-07-03 05:33:35",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 49089,
+        "transaction type": "payment",
+        "amount": 4892.907438548544,
+        "date": "2024-07-03 17:28:54",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 0,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 74915,
+        "transaction type": "cash withdrawal",
+        "amount": 39467.9891480943,
+        "date": "2024-07-03 08:28:45",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 87216,
+        "transaction type": "cash withdrawal",
+        "amount": 44545.101988642644,
+        "date": "2024-07-03 02:21:20",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 23834,
+        "transaction type": "cash withdrawal",
+        "amount": 13054.955790726075,
+        "date": "2024-07-03 13:50:13",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 12608,
+        "transaction type": "cash withdrawal",
+        "amount": 25263.49245796126,
+        "date": "2024-07-03 17:18:32",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 26382,
+        "transaction type": "cash withdrawal",
+        "amount": 23846.54144298812,
+        "date": "2024-07-03 09:58:28",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 32158,
+        "transaction type": "cash withdrawal",
+        "amount": 5189.242287855867,
+        "date": "2024-07-03 12:59:31",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 75905,
+        "transaction type": "cash withdrawal",
+        "amount": 44882.90770925482,
+        "date": "2024-07-03 01:40:24",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 83940,
+        "transaction type": "cash withdrawal",
+        "amount": 43788.29102593841,
+        "date": "2024-07-03 15:56:04",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 58793,
+        "transaction type": "payment",
+        "amount": 29931.355683271588,
+        "date": "2024-07-03 09:23:12",
+        "user": "user_1",
+        "ref": "thabiso",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 99310,
+        "transaction type": "payment",
+        "amount": 49946.38651448119,
+        "date": "2024-07-03 21:12:55",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 30093,
+        "transaction type": "payment",
+        "amount": 21551.27679504125,
+        "date": "2024-07-03 20:35:20",
+        "user": "user_1",
+        "ref": "thabiso",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 69371,
+        "transaction type": "payment",
+        "amount": 34581.19477752146,
+        "date": "2024-07-03 00:58:49",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 43757,
+        "transaction type": "purchase",
+        "amount": 4889.355457860434,
+        "date": "2024-07-03 12:01:09",
+        "user": "user_1",
+        "ref": "Clothing store",
+        "event_label": 0,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 65137,
+        "transaction type": "cash withdrawal",
+        "amount": 41126.41017131071,
+        "date": "2024-07-03 16:30:13",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 97292,
+        "transaction type": "cash withdrawal",
+        "amount": 17150.790392017927,
+        "date": "2024-07-03 05:08:43",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 65320,
+        "transaction type": "cash withdrawal",
+        "amount": 35708.30862519498,
+        "date": "2024-07-03 01:49:16",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 57161,
+        "transaction type": "cash withdrawal",
+        "amount": 20646.814227694784,
+        "date": "2024-07-03 17:37:53",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 54709,
+        "transaction type": "cash withdrawal",
+        "amount": 34955.89121068277,
+        "date": "2024-07-03 16:11:36",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 29416,
+        "transaction type": "cash withdrawal",
+        "amount": 38508.672921206715,
+        "date": "2024-07-03 07:27:45",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 31265,
+        "transaction type": "cash withdrawal",
+        "amount": 24329.025030188408,
+        "date": "2024-07-03 14:13:15",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 48320,
+        "transaction type": "cash withdrawal",
+        "amount": 40034.35223532652,
+        "date": "2024-07-03 20:18:42",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 4916,
+        "transaction type": "payment",
+        "amount": 34582.907366916275,
+        "date": "2024-07-03 02:08:44",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 52206,
+        "transaction type": "payment",
+        "amount": 29460.415622512508,
+        "date": "2024-07-03 18:03:45",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 39391,
+        "transaction type": "payment",
+        "amount": 32596.67240406879,
+        "date": "2024-07-03 12:51:48",
+        "user": "user_1",
+        "ref": "puleng",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 18748,
+        "transaction type": "payment",
+        "amount": 9436.271229612255,
+        "date": "2024-07-03 02:02:12",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 73682,
+        "transaction type": "cash withdrawal",
+        "amount": 711.4316249939181,
+        "date": "2024-07-03 01:39:36",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 0,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 88260,
+        "transaction type": "cash withdrawal",
+        "amount": 23163.55797471321,
+        "date": "2024-07-03 04:00:20",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "phomolong",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 3221,
+        "transaction type": "cash withdrawal",
+        "amount": 37047.5414256414,
+        "date": "2024-07-03 03:44:29",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "ivory",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 7381,
+        "transaction type": "cash withdrawal",
+        "amount": 18005.376422050296,
+        "date": "2024-07-03 01:28:41",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 12907,
+        "transaction type": "cash withdrawal",
+        "amount": 27317.283653790626,
+        "date": "2024-07-03 02:30:10",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 93158,
+        "transaction type": "cash withdrawal",
+        "amount": 43168.58558341814,
+        "date": "2024-07-03 18:00:23",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 85408,
+        "transaction type": "cash withdrawal",
+        "amount": 37783.827515182486,
+        "date": "2024-07-03 15:11:25",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 72909,
+        "transaction type": "cash withdrawal",
+        "amount": 29159.726073199687,
+        "date": "2024-07-03 02:03:18",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 26912,
+        "transaction type": "cash withdrawal",
+        "amount": 31256.771526843273,
+        "date": "2024-07-03 16:24:09",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 95014,
+        "transaction type": "payment",
+        "amount": 43514.93780257595,
+        "date": "2024-07-03 17:06:05",
+        "user": "user_1",
+        "ref": "thabiso",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 96675,
+        "transaction type": "payment",
+        "amount": 13027.845938102717,
+        "date": "2024-07-03 08:13:26",
+        "user": "user_1",
+        "ref": "cell c mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 47401,
+        "transaction type": "payment",
+        "amount": 40679.08311501069,
+        "date": "2024-07-03 21:02:17",
+        "user": "user_1",
+        "ref": "ifani",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 79412,
+        "transaction type": "payment",
+        "amount": 39370.89037614798,
+        "date": "2024-07-03 20:03:50",
+        "user": "user_1",
+        "ref": "vodacom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 40216,
+        "transaction type": "purchase",
+        "amount": 2748.1335302945467,
+        "date": "2024-07-03 11:16:10",
+        "user": "user_1",
+        "ref": "amazon",
+        "event_label": 0,
+        "location": {
+            "city": "sandton",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 97379,
+        "transaction type": "cash withdrawal",
+        "amount": 28343.79560204199,
+        "date": "2024-07-03 05:04:53",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "joburg",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 85910,
+        "transaction type": "cash withdrawal",
+        "amount": 12515.272755207327,
+        "date": "2024-07-03 20:31:44",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 14004,
+        "transaction type": "cash withdrawal",
+        "amount": 23355.713067854223,
+        "date": "2024-07-03 14:50:06",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 54984,
+        "transaction type": "cash withdrawal",
+        "amount": 13447.190331836819,
+        "date": "2024-07-03 13:50:11",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "rosebank",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 80162,
+        "transaction type": "cash withdrawal",
+        "amount": 46941.86103345311,
+        "date": "2024-07-03 19:01:58",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 85417,
+        "transaction type": "cash withdrawal",
+        "amount": 19177.287422874582,
+        "date": "2024-07-03 09:08:15",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 89906,
+        "transaction type": "cash withdrawal",
+        "amount": 21791.41425087028,
+        "date": "2024-07-03 04:21:17",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 80742,
+        "transaction type": "cash withdrawal",
+        "amount": 20889.68452133347,
+        "date": "2024-07-03 21:42:30",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 77784,
+        "transaction type": "payment",
+        "amount": 5557.605789547042,
+        "date": "2024-07-03 15:48:07",
+        "user": "user_1",
+        "ref": "vodacom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 83755,
+        "transaction type": "payment",
+        "amount": 8386.721902987752,
+        "date": "2024-07-03 13:26:30",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 36180,
+        "transaction type": "payment",
+        "amount": 23095.09182491952,
+        "date": "2024-07-03 23:11:31",
+        "user": "user_1",
+        "ref": "cell c mobile",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 26603,
+        "transaction type": "payment",
+        "amount": 44582.6869415374,
+        "date": "2024-07-03 05:45:12",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 79245,
+        "transaction type": "payment",
+        "amount": 555.0475432238152,
+        "date": "2024-07-03 22:34:34",
+        "user": "user_1",
+        "ref": "bruce",
+        "event_label": 0,
+        "location": {
+            "city": "cape town",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 85123,
+        "transaction type": "cash withdrawal",
+        "amount": 46361.72294001892,
+        "date": "2024-07-03 21:05:57",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 70824,
+        "transaction type": "cash withdrawal",
+        "amount": 7893.73570870591,
+        "date": "2024-07-03 03:51:07",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 91369,
+        "transaction type": "cash withdrawal",
+        "amount": 10066.057820680155,
+        "date": "2024-07-03 12:27:45",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "Tembisa",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 34594,
+        "transaction type": "cash withdrawal",
+        "amount": 40894.70713211889,
+        "date": "2024-07-03 07:43:06",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "tsakane",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 87502,
+        "transaction type": "cash withdrawal",
+        "amount": 14430.92835721151,
+        "date": "2024-07-03 06:26:22",
+        "user": "user_1",
+        "ref": "capitec bank",
+        "event_label": 1,
+        "location": {
+            "city": "moria",
+            "province": "limpopo"
+        }
+    },
+    {
+        "id": 31793,
+        "transaction type": "cash withdrawal",
+        "amount": 41138.31788142924,
+        "date": "2024-07-03 11:05:36",
+        "user": "user_1",
+        "ref": "standard bank",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 47808,
+        "transaction type": "cash withdrawal",
+        "amount": 22236.771144742128,
+        "date": "2024-07-03 15:11:01",
+        "user": "user_1",
+        "ref": "nedbank",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    },
+    {
+        "id": 47846,
+        "transaction type": "cash withdrawal",
+        "amount": 39940.68629783702,
+        "date": "2024-07-03 14:07:53",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 26748,
+        "transaction type": "payment",
+        "amount": 15165.076031105997,
+        "date": "2024-07-03 03:09:10",
+        "user": "user_1",
+        "ref": "vodacom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 18941,
+        "transaction type": "payment",
+        "amount": 19953.70310057686,
+        "date": "2024-07-03 20:06:58",
+        "user": "user_1",
+        "ref": "telkom mobile",
+        "event_label": 1,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 47541,
+        "transaction type": "payment",
+        "amount": 19663.06632957283,
+        "date": "2024-07-03 22:21:20",
+        "user": "user_1",
+        "ref": "scelo",
+        "event_label": 1,
+        "location": {
+            "city": "qwaqwa",
+            "province": "free state"
+        }
+    },
+    {
+        "id": 48266,
+        "transaction type": "payment",
+        "amount": 47310.66212625177,
+        "date": "2024-07-03 07:08:24",
+        "user": "user_1",
+        "ref": "mtn mobile",
+        "event_label": 1,
+        "location": {
+            "city": "mahikeng",
+            "province": "north west"
+        }
+    }
+]
