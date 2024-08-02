@@ -29,7 +29,6 @@ def home():
 def analyze():
     data = request.form.to_dict()
     try:
-        # Convert the form data to the appropriate types
         transaction = {
             "amount": float(data.get('amount', 0)),
             "transaction type": data.get('transaction_type', ''),
