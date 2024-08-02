@@ -1,4 +1,3 @@
-from sklearn.metrics import classification_report, confusion_matrix
 from datetime import datetime
 import pandas as pd
 import numpy as np
@@ -8,8 +7,7 @@ import joblib
 
 class AnalyzeTransaction:
     def __init__(self, transaction: dict) -> None:
-# Load the model and preprocessing objects
-        self.model = joblib.load('random_forest_model.joblib')
+        self.model = joblib.load('transaction_model.joblib')
         self.location_encoder = joblib.load('location_encoder.joblib')
         self.merchant_encoder = joblib.load('merchant_encoder.joblib')
         self.scaler = joblib.load('amount_scaler.joblib')
@@ -52,8 +50,9 @@ class AnalyzeTransaction:
 if __name__ == '__main__':
     new_transaction = {
             "amount": 500.00,
+            "transaction type": "cash withdrawal",
             "date": "2024-08-01 12:00:00",
-            "ref": "Electronic Store",  # Merchant category
+            "ref": "capitec bank",
             "location": {"city": "cape town", "province": "gauteng"}
     }
     analysis = AnalyzeTransaction(new_transaction)

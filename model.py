@@ -19,6 +19,7 @@ class TransactionModel:
         self.scaler = StandardScaler()
         self.model = RandomForestClassifier(n_estimators=100, random_state=42, class_weight='balanced')
         
+        
     def open_file(self) -> list[dict, dict]:
         with open('transactions.json', 'r') as file:
             transaction_data = json.load(file)
@@ -76,7 +77,7 @@ class TransactionModel:
 
     
     def save_model(self):
-        joblib.dump(self.model, 'random_forest_model.joblib')
+        joblib.dump(self.model, 'transaction_model.joblib')
         joblib.dump(self.location_encoder, 'location_encoder.joblib')
         joblib.dump(self.merchant_encoder, 'merchant_encoder.joblib')
         joblib.dump(self.scaler, 'amount_scaler.joblib')
