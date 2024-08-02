@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/noxolo/Desktop/fraud-transaction-detector/.venv"
+set -gx VIRTUAL_ENV "/home/wtc/Desktop/github_projects/BankingApp/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

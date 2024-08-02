@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/noxolo/Desktop/fraud-transaction-detector/.venv"
+VIRTUAL_ENV="/home/wtc/Desktop/github_projects/BankingApp/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
