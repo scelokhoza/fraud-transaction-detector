@@ -29,8 +29,10 @@ git clone git@github.com:scelokhoza/fraud-transaction-detector.git
 ## Execution / Usage
 
 To run fraud-detection-transaction, fire up a terminal window and run the following command:
-
+cd to where you cloned fraud-transaction-detector
 python3 app.py
+
+![IMG_20240803_081906_837](https://github.com/user-attachments/assets/04f33563-caa3-4f35-b27c-c6923332e3ff)
 
 you should get this http://127.0.0.1:5000 will be displayed, take that and paste it in your browser
 
@@ -45,6 +47,12 @@ keras
 
 detects fraud by existing transaction data
 personalizes the algorithm to each user
+
+![IMG_20240803_081943_212](https://github.com/user-attachments/assets/f11e48a3-405d-4e4d-a9ce-4f09b2597565)
+
+
+![IMG_20240803_082339_356](https://github.com/user-attachments/assets/fb8d80ed-f14b-49e5-ad02-a6d8ae79a04a)
+
 
 ## Contributing
 
