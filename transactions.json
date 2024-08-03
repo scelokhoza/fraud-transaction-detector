@@ -1145,11 +1145,11 @@
     },
     {
         "id": 55299,
-        "transaction type": "payment",
-        "amount": 15871.099883494735,
+        "transaction type": "purchase",
+        "amount": 158.099883494735,
         "date": "2024-07-03 05:13:39",
         "user": "user_1",
-        "ref": "scelo",
+        "ref": "mcdonald",
         "event_label": 1,
         "location": {
             "city": "kaalfontein",
@@ -1171,11 +1171,11 @@
     },
     {
         "id": 75045,
-        "transaction type": "payment",
-        "amount": 6685.922759467934,
+        "transaction type": "purchase",
+        "amount": 368.922759467934,
         "date": "2024-07-03 04:48:33",
         "user": "user_1",
-        "ref": "puleng",
+        "ref": "kfc",
         "event_label": 1,
         "location": {
             "city": "mahikeng",
@@ -1301,11 +1301,11 @@
     },
     {
         "id": 44753,
-        "transaction type": "payment",
+        "transaction type": "purchase",
         "amount": 41319.69660505524,
         "date": "2024-07-03 02:32:21",
         "user": "user_1",
-        "ref": "puleng",
+        "ref": "chicken licken",
         "event_label": 1,
         "location": {
             "city": "vryheid",

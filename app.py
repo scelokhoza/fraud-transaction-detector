@@ -1,4 +1,5 @@
 import joblib
+import random
 import pandas as pd
 from datetime import datetime
 from model import TransactionModel
@@ -34,9 +35,19 @@ def analyze():
             "amount": float(data.get('amount', 0)),
             "transaction type": data.get('transaction_type', ''),
             "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "ref": data.get('merchant', ''),
+            "ref": data.get('merchant_type', ''),
             "location": {"city": data.get('city', ''), "province": data.get('province', '')}
         }
+        if (transaction['location']['province']=='gauteng'):
+            transaction['location']['city'] = random.choice(['kaalfontein', 'Tembisa', 'ivory', 'joburg', 'cape town', 'rosebank', 'tsakane'])
+        elif (transaction['location']['province']=='limpopo'):transaction['location']['city'] = 'moria'
+        elif (transaction['location']['province']=='free state'):transaction['location']['city'] = 'qwaqwa'
+        elif (transaction['location']['province']=='north west'):transaction['location']['city'] = 'mahikeng'
+        elif (transaction['location']['province']=='western cape'):transaction['location']['city'] = 'cape town'
+        elif (transaction['location']['province']=='eastern cape'):transaction['location']['city'] = 'gqeberha'
+        elif (transaction['location']['province']=='kwazulu natal'):transaction['location']['city'] = 'vryheid'
+        elif (transaction['location']['province']=='mpumalanga'):transaction['location']['city'] = 'bethal'
+        
         analyzer = AnalyzeTransaction(transaction)
         features = analyzer.process_transaction()
         fraud_probability = analyzer.predict_fraud(features)
