@@ -30,7 +30,8 @@ git clone git@github.com:scelokhoza/fraud-transaction-detector.git
 
 To run fraud-detection-transaction, fire up a terminal window and run the following command:
 cd to where you cloned fraud-transaction-detector
-python3 app.py
+
+- python3 app.py
 
 ![IMG_20240803_081906_837](https://github.com/user-attachments/assets/04f33563-caa3-4f35-b27c-c6923332e3ff)
 
@@ -70,6 +71,9 @@ To contribute to the development of fraud-detector-transaction, follow the steps
 Here's the list of people who have contributed to < project's name >:
 
 - sceloprince749@gmail.com
+- pchoshi023@student.wethinkcode.co.za
+- iaphane023@student.wethinkcode.co.za
+- tbhembe023@student.wethinkcode.co.za
 
 The fraud-detector-transaction development team really appreciates and thanks the time and effort that all these fellows have put into the project's growth and improvement.
 
