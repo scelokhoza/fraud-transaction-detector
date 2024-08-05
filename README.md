@@ -71,9 +71,7 @@ To contribute to the development of fraud-detector-transaction, follow the steps
 Here's the list of people who have contributed to <fraud-transaction-detector >:
 
 - sceloprince749@gmail.com
-- pchoshi023@student.wethinkcode.co.za
 - iaphane023@student.wethinkcode.co.za
-- tbhembe023@student.wethinkcode.co.za
 
 The fraud-detector-transaction development team really appreciates and thanks the time and effort that all these fellows have put into the project's growth and improvement.
 
