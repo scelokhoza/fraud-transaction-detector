@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 from model import TransactionModel
 from analyze import AnalyzeTransaction
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, redirect
 
 
 app = Flask(__name__)
@@ -24,8 +24,14 @@ default_transaction = {"amount": 100.00, "trnsaction_type": "purchase", "ref": "
 
 
 @app.route('/')
-def home():
-    return render_template("index.html")
+def index():
+    return render_template("LandingPage.html")
+
+
+@app.route('/dashboard')
+def dashboard():
+    return render_template("dashboard.html")
+    
 
 @app.route('/analyze', methods=['POST'])
 def analyze():

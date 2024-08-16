@@ -1,4 +1,4 @@
-#!/home/wtc/Desktop/github_projects/BankingApp/.venv/bin/python
+#!/home/scelo/Desktop/fraud-transaction-detector/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
