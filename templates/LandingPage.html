@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FraudGuard - Secure Your Transactions</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        header {
+            background-color: #1e1e1e;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+        }
+        header h1 {
+            color: #bb86fc;
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 700;
+            transition: color 0.3s;
+        }
+        header h1:hover {
+            color: #9a67ea;
+        }
+        header p {
+            margin: 10px 0;
+            color: #e0e0e0;
+            font-weight: 400;
+            font-size: 1.1em;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            flex: 1; /* Allow section to grow and fill available space */
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            color: #121212;
+            background-color: #bb86fc;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s, transform 0.3s;
+            font-weight: 700;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        .cta a:hover {
+            background-color: #9a67ea;
+            transform: scale(1.05);
+        }
+        h2 {
+            color: #ffffff;
+            font-size: 2em;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        .features {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px; /* Reduced margin to fit the layout */
+        }
+        .feature {
+            margin: 10px;
+            padding: 20px;
+            background-color: #1e1e1e;
+            border-radius: 10px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            text-align: center;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            animation: fadeInUp 1s ease-out forwards;
+        }
+        .feature:hover {
+            transform: scale(1.05) translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+        }
+        .feature h3 {
+            color: #bb86fc;
+            margin-top: 0;
+            font-weight: 700;
+            font-size: 1.5em;
+        }
+        footer {
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            text-align: center;
+            padding: 15px 0;
+            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+        }
+        footer p {
+            margin: 0;
+            font-weight: 400;
+        }
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>FraudGuard</h1>
+        <p>Protect Your Transactions with Cutting-Edge Fraud Detection</p>
+    </header>
+    
+    <section>
+        <h2>Features</h2>
+        <div class="features">
+            <div class="feature">
+                <h3>Fraud Detection Using Existing Data</h3>
+                <p>Detect potential fraud by analyzing existing transaction data. Our system monitors patterns to identify suspicious activities before they occur.</p>
+            </div>
+            <div class="feature">
+                <h3>Personalized Algorithm</h3>
+                <p>Our algorithms adapt to each user’s unique transaction patterns, enhancing accuracy and minimizing false positives.</p>
+            </div>
+            <div class="feature">
+                <h3>Real-Time Alerts</h3>
+                <p>Receive instant alerts to confirm transactions. This ensures you can act quickly if any unusual activity is detected.</p>
+            </div>
+        </div>
+
+        <div class="cta">
+            <a href="#signup">Get Started</a>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 MachineMavericks</p>
+    </footer>
+</body>
+</html>
