@@ -17,3 +17,5 @@ threadpoolctl==3.5.0
 tzdata==2022.7
 Werkzeug==3.0.3
 gunicorn==20.1.0
+Flask==2.3.3
+
