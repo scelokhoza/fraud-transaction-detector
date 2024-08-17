@@ -2,6 +2,7 @@
 
 
 Fraud-transaction detector uses machine learning to detect whether a transaction is fraudulent or not
+- [Link](https://fraud-transaction-detector.onrender.com)
 
 
 ![]()
@@ -49,10 +50,15 @@ keras
 detects fraud by existing transaction data
 personalizes the algorithm to each user
 
-![IMG_20240803_081943_212](https://github.com/user-attachments/assets/f11e48a3-405d-4e4d-a9ce-4f09b2597565)
+![Screenshot from 2024-08-17 03-49-48](https://github.com/user-attachments/assets/731fcc96-d14a-45b1-bb9e-390be41854e8)
 
 
-![IMG_20240803_082339_356](https://github.com/user-attachments/assets/fb8d80ed-f14b-49e5-ad02-a6d8ae79a04a)
+![Screenshot from 2024-08-17 03-49-59](https://github.com/user-attachments/assets/fe04805d-6c38-45e7-816c-f0bfe4890413)
+
+
+![Screenshot from 2024-08-17 03-50-43](https://github.com/user-attachments/assets/008977bd-5d70-4971-b15d-6c5b571fe875)
+
+
 
 
 ## Contributing
