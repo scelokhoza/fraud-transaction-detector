@@ -63,6 +63,7 @@ class AnalyzeTransaction:
         
         return new_features
 
+
     def predict_fraud(self, new_features) -> float:
         """
         Predicts the probability of fraud for the processed transaction.
@@ -74,7 +75,7 @@ class AnalyzeTransaction:
             float: Probability of the transaction being fraudulent.
         """
         fraud_probability = self.model.predict_proba(new_features)[:, 1][0]
-        # print(f"Likelihood of fraud: {fraud_probability * 100:.2f}%")
+        print(f"Likelihood of fraud: {fraud_probability * 100:.2f}%")
         return fraud_probability
 
     
@@ -85,7 +86,7 @@ if __name__ == '__main__':
             "transaction type": "cash withdrawal",
             "date": "2024-08-01 12:00:00",
             "ref": "capitec bank",
-            "location": {"city": "cape town", "province": "gauteng"}
+            "location": {"city": "mayibuye", "province": "gauteng"}
     }
     analysis = AnalyzeTransaction(new_transaction)
     features = analysis.process_transaction()
