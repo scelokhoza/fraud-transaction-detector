@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transactions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Transactions</h1>
+        <div class="transactions-list">
+            {% for transaction in transactions %}
+                <div class="transaction-item">
+                    <p><strong>ID:</strong> {{ transaction['id'] }}</p>
+                    <p><strong>Type:</strong> {{ transaction['transaction type'] }}</p>
+                    <p><strong>Amount:</strong> R{{ transaction['amount'] | round(2) }}</p>
+                    <p><strong>Date:</strong> {{ transaction['date'] }}</p>
+                    <p><strong>User:</strong> {{ transaction['user'] }}</p>
+                    <p><strong>Reference:</strong> {{ transaction['ref'] }}</p>
+                    <p><strong>Location:</strong> {{ transaction['location']['city'] }}, {{ transaction['location']['province'] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

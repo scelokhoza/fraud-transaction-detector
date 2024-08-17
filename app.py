@@ -1,10 +1,8 @@
-import joblib
-import random
-import pandas as pd
+import json
 from datetime import datetime
 from model import TransactionModel
 from analyze import AnalyzeTransaction
-from flask import Flask, request, jsonify, render_template, redirect
+from flask import Flask, request, jsonify, render_template
 
 
 app = Flask(__name__)
@@ -22,6 +20,10 @@ transactionModel.save_model()
 
 default_transaction = {"amount": 100.00, "trnsaction_type": "purchase", "ref": "mcdonald", "location": "city_province", "hour": 14, "day_of_week": 3}
 
+def load_transactions():
+    with open('transactions.json') as f:
+        transactions = json.load(f)
+    return transactions
 
 @app.route('/')
 def index():
@@ -31,6 +33,11 @@ def index():
 @app.route('/dashboard')
 def dashboard():
     return render_template("dashboard.html")
+
+@app.route('/transactions')
+def transactions():
+    transactions = load_transactions()
+    return render_template('transactions.html', transactions=transactions)
     
 
 @app.route('/analyze', methods=['POST'])
@@ -44,7 +51,6 @@ def analyze():
             "ref": data.get('merchant_type', ''),
             "location": {"city": data.get('city', ''), "province": data.get('province', '')}
         }
-
         
         analyzer = AnalyzeTransaction(transaction)
         features = analyzer.process_transaction()

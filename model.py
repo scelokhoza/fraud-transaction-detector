@@ -48,7 +48,7 @@ class TransactionModel:
         self.user_data = self.data[self.data['user'] == 'user_1']
         self.preprocess_data()
         self.location_encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
-        self.merchant_encoder = OneHotEncoder(sparse_output=False)
+        self.merchant_encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
         self.scaler = StandardScaler()
         self.model = RandomForestClassifier(n_estimators=100, random_state=42, class_weight='balanced')
 

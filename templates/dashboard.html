@@ -90,6 +90,10 @@
         .alert-danger {
             background-color: #f44336;
         }
+        .alert-success {
+            background-color: #4CAF50; 
+            color: #ffffff;
+        }
         .modal {
             display: none;
             position: fixed;
@@ -131,7 +135,8 @@
     <div class="sidebar">
         <h1>Dashboard</h1>
         <a href="#" class="nav-link">Home</a>
-        <a href="#" class="nav-link">Transactions</a>
+        <a href="#" class="nav-link" id="nav-dashboard">Dashboard</a>
+        <a href="{{ url_for('transactions') }}" class="nav-link" id="nav-transactions">Transactions</a>
         <a href="#" class="nav-link">Alerts</a>
     </div>
     <div class="main-content">
@@ -225,7 +230,10 @@
                 showAlert('warning', `Warning: Fraud Probability is ${fraudProbability.toFixed(2)}%. Please verify your recent transactions.`);
             } else if (fraudProbability >= 30 && fraudProbability < 50) {
                 showAlert('info', `Notice: Fraud Probability is ${fraudProbability.toFixed(2)}%. No immediate action needed.`);
+            } else {
+                showAlert('success', 'Transaction is successful and no fraud detected.');
             }
+            
         }
 
         function showModal() {

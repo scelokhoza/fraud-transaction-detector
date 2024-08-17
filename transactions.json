@@ -2533,5 +2533,57 @@
             "city": "mahikeng",
             "province": "north west"
         }
+    },
+    {
+        "id": 47806,
+        "transaction type": "purchase",
+        "amount": 4000.68629783702,
+        "date": "2024-08-07 14:07:53",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 1,
+        "location": {
+            "city": "vryheid",
+            "province": "kwazulu natal"
+        }
+    },
+    {
+        "id": 478026,
+        "transaction type": "purchase",
+        "amount": 500.68629783702,
+        "date": "2024-08-12 14:07:53",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 0,
+        "location": {
+            "city": "kaalfontein",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 478016,
+        "transaction type": "purchase",
+        "amount": 3000.68629783702,
+        "date": "2024-08-01 12:07:50",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 0,
+        "location": {
+            "city": "mayibuye",
+            "province": "gauteng"
+        }
+    },
+    {
+        "id": 4780326,
+        "transaction type": "purchase",
+        "amount": 200.68629783702,
+        "date": "2024-07-03 14:07:53",
+        "user": "user_1",
+        "ref": "retail store",
+        "event_label": 0,
+        "location": {
+            "city": "tembisa",
+            "province": "gauteng"
+        }
     }
 ]
