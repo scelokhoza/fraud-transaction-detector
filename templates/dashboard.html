@@ -229,7 +229,7 @@
             } else if (fraudProbability >= 50 && fraudProbability < 75) {
                 showAlert('warning', `Warning: Fraud Probability is ${fraudProbability.toFixed(2)}%. Please verify your recent transactions.`);
             } else if (fraudProbability >= 30 && fraudProbability < 50) {
-                showAlert('info', `Notice: Fraud Probability is ${fraudProbability.toFixed(2)}%. No immediate action needed.`);
+                showAlert('info', `Transaction is successful and no fraud detected.`);
             } else {
                 showAlert('success', 'Transaction is successful and no fraud detected.');
             }
